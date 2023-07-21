@@ -7,4 +7,12 @@ Clasificados los discursos presidenciales once períodos de la Historia del Per�
 - **discursos_peru_pdf**: Contiene los discursos utilizados para el diseño de la nube de palabras.
 - **Presidentes_y_períodos_.xlsx**: Contiene un descripción detallada de los gobernantes del siglo XIX y XX, períodos y discursos utilizados para el presente análisis.
 - **jupyter_nltk.ipynb**: Es el el código en formato jupyter para la generación de la nube de palabras. 
-- **script_nltk.py**: Es el código en formato script utilizado para la generación de la nube de palabras. En este caso, puede utilizarse este o el código de jupyter notebook para el análisis del lenguaje en nube de palabras. 
+- **script_nltk.py**: Es el código en formato script utilizado para la generación de la nube de palabras. En este caso, puede utilizarse este o el código de jupyter notebook para el análisis del lenguaje en nube de palabras.
+
+
+</br>
+</br>
+
+---
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licencia Creative Commons" style="border-width:A0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /> A menos que se indique lo contrario, esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional</a>.
+
