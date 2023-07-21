@@ -9,6 +9,7 @@ Clasificados los discursos presidenciales once períodos de la Historia del Per�
 - **jupyter_nltk.ipynb**: Es el el código en formato jupyter para la generación de la nube de palabras. 
 - **script_nltk.py**: Es el código en formato script utilizado para la generación de la nube de palabras. En este caso, puede utilizarse este o el código de jupyter notebook para el análisis del lenguaje en nube de palabras.
 
+</br>
 
 | Créditos | 
 | ------------- | 
