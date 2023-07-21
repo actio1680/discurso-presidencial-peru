@@ -10,6 +10,10 @@ Clasificados los discursos presidenciales once períodos de la Historia del Per�
 - **script_nltk.py**: Es el código en formato script utilizado para la generación de la nube de palabras. En este caso, puede utilizarse este o el código de jupyter notebook para el análisis del lenguaje en nube de palabras.
 
 
+| Créditos | 
+| ------------- | 
+| Proyecto elaborado con colaboración de [Social-Lab](https://www.facebook.com/profile.php?id=100092960187270). | 
+
 </br>
 </br>
 
