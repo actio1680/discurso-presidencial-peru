@@ -14,7 +14,7 @@ Clasificados los discursos presidenciales once períodos de la Historia del Per�
 
 | Créditos | 
 | ------------- | 
-| Proyecto elaborado con colaboración de [Social-Lab](https://www.facebook.com/profile.php?id=100092960187270). | 
+| Proyecto elaborado en colaboración con [Social-Lab](https://www.facebook.com/permalink.php?story_fbid=153683657740306&id=100092960187270&ref=embed_post). | 
 
 </br>
 </br>
