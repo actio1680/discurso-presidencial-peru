@@ -8,12 +8,15 @@ Clasificados los discursos presidenciales once períodos de la Historia del Per�
 
 [> Repositorio del proyecto](https://github.com/actio1680/discurso-presidencial-peru)
 
+
+/////////////////////////
+
 ### CONTENIDO
 **1. Descripción de la documentación**
 
 **2. Script Python**
 
----
+/////////////////////////
 
 ### 1. DESCRIPCIÓN DE LA DOCUMENTACIÓN
 - **discursos_peru_pdf**: Contiene los discursos en formato PDF utilizados para el diseño de la nube de palabras. Las letras corresponden a la etiqueta creada para la nube de palabras.
