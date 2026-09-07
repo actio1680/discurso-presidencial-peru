@@ -1,4 +1,4 @@
-## Discursos presidenciales del Perú [1]
+## Discursos presidenciales del Perú
 
 Publicado: Julio 2023
 
